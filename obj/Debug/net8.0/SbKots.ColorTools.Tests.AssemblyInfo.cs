@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SbKots.ColorTools.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4972886cd89a5d3b16cd042503bf992fc6bf4247")]
 [assembly: System.Reflection.AssemblyProductAttribute("SbKots.ColorTools.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SbKots.ColorTools.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
